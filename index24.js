@@ -17,7 +17,6 @@ function removeDuplicate(arr) {
 
 console.log(removeDuplicate(input));
 
-
 // // Ascending Order==========================
 // function sortAscending(arr) {
 //     let n = arr.length;
